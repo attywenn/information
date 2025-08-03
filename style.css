@@ -1,0 +1,73 @@
+@media (max-width: 600px) {
+
+
+    body {
+        margin: 0px;
+
+    }
+    
+    .header-box {
+        margin-top: 40px;
+        height: 130px;
+        background-color: rgb(0, 0, 0);
+    }
+    
+    .title-about h3{
+        color: white;
+        font-size: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: bold;
+        padding: 20px 20px 0px 20px;
+        text-align: end;
+
+
+    }
+
+    .title-name {
+        color: white;
+        font-size: 30px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: bold;
+        padding:0px 20px 10px 0px;
+        margin-top: -20px;
+        text-align: end;
+    }
+
+    .home-icon img {
+        margin-left: 40%;
+        margin-top: 10px;
+        background-color: rgb(218, 197, 11);
+        padding: 5px;
+        border-radius: 50px;
+    }
+
+    .main-title {
+        padding: 60px 0px 0px 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 30px;
+    }
+
+    .main-title strong {
+        font-size: 40px;
+    }
+
+    .personal-info {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 20px 20px 0px 20px;
+    }
+
+    .footer-box {
+        height: 80px;
+        background-color: rgb(86, 8, 8);
+    }
+
+    .footer-text {
+        color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 1rem;
+        line-height: 80px;
+        text-align: center;
+    }
+
+
+}
